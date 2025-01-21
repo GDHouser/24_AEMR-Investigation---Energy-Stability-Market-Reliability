@@ -2,4 +2,4 @@ This is a course assignment to present the Energy Stability and Market Reliabilt
 
 Below is the Tableau link to this presentation: 
 
-https://haproxy-traffic-splitter/views/AEMRInvestigationEnergyStabilityMarketReliability/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/galen.houser/viz/AEMRInvestigationEnergyStabilityMarketReliability/Story1
